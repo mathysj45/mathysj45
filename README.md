@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Student Full-Stack Developer @ Coda<br>Former Retail Manager turning into a Tech Enthusiast.<br><br>I am currently transitioning from a background in management and commerce (8 years of experience) to software development. I combine my leadership skills and resilience with my new passion for coding.</p>
+<p align="left">🚀 Student Full-Stack Developer at coda<br>Former Retail Manager turning into a Tech Enthusiast.<br><br>I am currently transitioning from a background in management and commerce (8 years of experience) to software development. I combine my leadership skills and resilience with my new passion for coding.</p>
 
 ###
 
